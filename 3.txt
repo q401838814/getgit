@@ -1,4 +1,4 @@
 Test git line1.
 Test git line2.
 Test git line3..
-Test git line4
+Test git line4...
